@@ -6,3 +6,4 @@ Hello world
 this is a sample file
 
 fixing a bug and commiting the changes
+I am working on a feature and in the middle i want to merge the bugfix 
