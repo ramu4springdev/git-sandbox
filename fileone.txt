@@ -4,3 +4,4 @@ iiiii
 jjjjj
 Hello world
 this is a sample file
+I am working on a feature and in the middle i want to merge the bugfix 
