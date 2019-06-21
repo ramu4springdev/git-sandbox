@@ -2,3 +2,5 @@ This is a fourth file in the feature_branch
 Creating for demo purpose
 Here i am adding a line for feature development
 
+This line is added for the bug fix in bug_fix branch
+
